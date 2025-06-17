@@ -1,0 +1,3 @@
+g++ -c copy.cpp
+g++ copy.cpp -o copy -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
+ ./copy
